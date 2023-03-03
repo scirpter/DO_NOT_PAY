@@ -7,4 +7,4 @@ A bunch of cracked APKs I needed freemium from...
 | APP      | VERSION | PURPOSE                                                                                         |
 |----------|---------|-------------------------------------------------------------------------------------------------|
 | WO Mic   | 4.7.1   | Use your phone as a mic for PC. No ads + adjustable volume with permanent premium subscription. |
-| Duolingo | 5.92.3  | [x][app 2]                                  |
+| Duolingo | 5.92.3  | [https://xd.com][app 2]                                  |
