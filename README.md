@@ -8,4 +8,5 @@ A bunch of cracked APKs I needed freemium from...
 | Duolingo | 5.92.3  | Learn a language with permanent Duolingo "Super" subscription.                                  |
 
 
+<br /><br /><br /><br /><br />
 ###### .md table thanks to https://www.tablesgenerator.com/markdown_tables
