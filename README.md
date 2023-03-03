@@ -10,6 +10,6 @@ A bunch of cracked apps I needed freemium from...
 ### .exes
 | APP | VERSION | PURPOSE | NOTICE |
 |:---:|---:|:---:|---|
-| StartIsBackCfg | 5.9.17.3580 | Some custom Windows theme tool idk...  Premium = no more "buy my license or I will pop up a window reminding you of your brokeness everytime you restart your PC" | File location to replace: %AppData%/Local/StartIsBack/StartIsBackCfg.exe |
+| StartIsBackCfg | 5.9.17.3580 | Some custom Windows theme tool idk...  Premium = no more "buy my license or I will pop up a window reminding you of your brokeness everytime you restart your PC" | File location to replace: %AppData%/Local/StartIsBack |
 
 ###### NOTE: .md table thanks to https://www.tablesgenerator.com/markdown_tables
