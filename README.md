@@ -1,5 +1,5 @@
 # Freemium
-A bunch of cracked APKs I needed freemium from...
+A bunch of cracked apps I needed freemium from...
 
 ### Apps
 | APP      | VERSION | PURPOSE                                                                                                                                                                              |
