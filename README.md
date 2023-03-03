@@ -1,5 +1,5 @@
 # Freemium
-A bunch of cracked apps I needed freemium from...
+A bunch of apps that I cracked which I needed freemium from...
 
 ### .apks
 | APP | VERSION | PURPOSE | NOTICE |
